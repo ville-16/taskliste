@@ -1,5 +1,5 @@
 <?php
-
+//
 class DB {
     private static $db = null;
     public static function get(){
