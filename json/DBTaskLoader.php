@@ -1,6 +1,6 @@
 <?php
 
-require_once "Task.php";
+require_once "task.php";
 require_once "DB.php";
 
 header("Content-type:application/json; charset=UTF-8");
